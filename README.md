@@ -1,5 +1,7 @@
 # pertemuan7
-NIM : 2209106087 NAMA : MATELDA YUNANTA AMBON
+NIM : 2209106087 
+NAMA : MATELDA YUNANTA AMBON
+
 A new Flutter project.
 
 ## Getting Started
